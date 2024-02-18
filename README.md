@@ -18,7 +18,7 @@ This is where you give instructions on how to run your project
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* npm (Node JS)
   ```sh
   npm install npm@latest -g
   ```
